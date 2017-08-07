@@ -16,4 +16,12 @@ This repository is basically a collection of several python mini challenges that
 5) common_lists.py
     This program generates two lists, x and y, each of random lengths and generates a different list of common elements       
     between x and y
+    
+6) palindrome.py
+    This program checks if a given string is a palindrome or not
 
+7) list_comprehension.py
+    This program uses list comprehension and an inputted list of numbers and prints all even numbers in that list
+
+8) rock_paper_scissors.py
+    This is a rock, paper and scissors game which will keep prompting you until one of two players win
