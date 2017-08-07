@@ -28,3 +28,9 @@ This repository is basically a collection of several python mini challenges that
 
 9) high_low_game.py
     This program generates a number and allows user to keep guessing until you get the number right or type 'exit'
+
+10) check_prime.py
+    This program checks if a given number is prime or not.
+    
+11) get_first_and_last.py
+    This program takes a list as its input and outputs the first and last elements in that input
