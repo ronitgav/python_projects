@@ -25,3 +25,6 @@ This repository is basically a collection of several python mini challenges that
 
 8) rock_paper_scissors.py
     This is a rock, paper and scissors game which will keep prompting you until one of two players win
+
+9) high_low_game.py
+    This program generates a number and allows user to keep guessing until you get the number right or type 'exit'
