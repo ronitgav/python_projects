@@ -55,4 +55,7 @@ This repository is basically a collection of several python mini challenges that
     
 18) read_names_from_list.py
     This program outputs a dictionary with the count of each name after reading a file 
+
+19) prime_AND_happy.py
+    This program generates a sorted intersection of happy and prime numbers till 1000
     
