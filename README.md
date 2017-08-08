@@ -46,4 +46,7 @@ This repository is basically a collection of several python mini challenges that
 
 15) decode_nytimes.py
     This program counts the articles on NYTimes.com and prints out each title
+
+16) decoding_vanity_fair.py
+    This program removes the text from the Vanity Fair article about Monica Lewinsky and adds it to a text file
     
