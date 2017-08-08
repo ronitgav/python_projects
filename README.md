@@ -49,4 +49,7 @@ This repository is basically a collection of several python mini challenges that
 
 16) decoding_vanity_fair.py
     This program removes the text from the Vanity Fair article about Monica Lewinsky and adds it to a text file
+
+17) ele_search.py
+    This program uses binary search to check if a number is within the inputted list
     
