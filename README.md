@@ -58,4 +58,7 @@ This repository is basically a collection of several python mini challenges that
 
 19) overlap_happy_prime.py
     This program generates a sorted intersection of happy and prime numbers till 1000
-    
+
+20) user_guessing_game.py
+    This program allows you to enter a number and then allows the computer to play the high low game until the computer gets 
+    it right
