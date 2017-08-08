@@ -34,3 +34,13 @@ This repository is basically a collection of several python mini challenges that
     
 11) get_first_and_last.py
     This program takes a list as its input and outputs the first and last elements in that input
+
+12) remove_dups.py
+    This program removes duplicates of a list.
+
+13) reverse_list_words.py
+    This program takes a sentence and reverses it.
+    
+14) password_gen.py
+    This program takes a strength: weak, medium, strong and generates a password based on the desired strength
+    
