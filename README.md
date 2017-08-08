@@ -65,3 +65,7 @@ This repository is basically a collection of several python mini challenges that
 
 21) maximum_of_3.py
     Takes 3 numbers as inputs and prints out maximum of the three numbers
+    
+22) birthdays.py
+    This uses JSON to create a dictionary of birthdays which you can add to or use to search. It then counts the differents 
+    months of birthdays
