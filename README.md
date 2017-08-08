@@ -62,3 +62,6 @@ This repository is basically a collection of several python mini challenges that
 20) user_guessing_game.py
     This program allows you to enter a number and then allows the computer to play the high low game until the computer gets 
     it right
+
+21) maximum_of_3.py
+    Takes 3 numbers as inputs and prints out maximum of the three numbers
