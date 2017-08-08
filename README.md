@@ -43,4 +43,7 @@ This repository is basically a collection of several python mini challenges that
     
 14) password_gen.py
     This program takes a strength: weak, medium, strong and generates a password based on the desired strength
+
+15) decode_nytimes.py
+    This program counts the articles on NYTimes.com and prints out each title
     
