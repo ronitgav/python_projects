@@ -26,7 +26,8 @@ req = requests.get(url)
 data = req.text
 
 soup = BeautifulSoup(data, 'lxml')
-file = open('vanity_fair_monica_lewinsky.txt','w') 
+tfile_name = raw_input('Enter a file name: ')
+file = open('%s.txt' % tfile_name,'w') 
 
 article_text = ""
 for ele in soup.find_all('p'):
