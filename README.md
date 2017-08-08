@@ -53,3 +53,6 @@ This repository is basically a collection of several python mini challenges that
 17) ele_search.py
     This program uses binary search to check if a number is within the inputted list
     
+18) read_names_from_list.py
+    This program outputs a dictionary with the count of each name after reading a file 
+    
